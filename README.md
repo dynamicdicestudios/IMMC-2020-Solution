@@ -3,7 +3,7 @@ The IMMC (International Mathematical Modeling Challenge) is a team challenge tha
 
 **Challenge Requirements**
 
-For the 2020 challenge, teams were required to write a 20-page report on how to handle a flash sale event at a brick-and mortar location. The main goals were to reorganize the layout of the store to allow the slash sale to go a s smoothly as possible (via minimizing the time customers spend in the store, the amount of fighting and the damage to the goods in the store). 
+For the 2020 challenge, teams were required to write a 20-page report on how to handle a flash sale event at a brick-and mortar location. The main goals were to reorganize the layout of the store to allow the flash sale to go as smoothly as possible (via minimizing the time customers spend in the store, the amount of fighting and the damage to the goods in the store). 
 
 **My role**
 
